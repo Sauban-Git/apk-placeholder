@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Developer Verifier placeholder"
+rootProject.name = " Contact keys placeholder"
 include(":app")
