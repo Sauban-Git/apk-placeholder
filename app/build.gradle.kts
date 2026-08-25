@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.google.android.verifier"
+    namespace = "com.google.android.contactkeys"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.android.verifier"
+        applicationId = "com.google.android.contactkeys"
         minSdk = 24
         targetSdk = 34
         versionCode = 2000000000
